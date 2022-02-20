@@ -1,3 +1,4 @@
+#CREATE DATABASE `northwind_dw` /*!40100 DEFAULT CHARACTER SET latin1 */ /*!80016 DEFAULT ENCRYPTION='N' */;
 #USE northwind;
 
 -- Parts 1 and 2
